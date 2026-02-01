@@ -54,7 +54,7 @@
     "@babel/runtime": "^7.25.6",
     "@toruslabs/config": "^2.2.0",
     "@toruslabs/eslint-config-typescript": "^3.3.3",
-    "@toruslabs/torus-scripts": "^6.1.2",
+    "@toruslabs/torus-scripts": "^8.0.0",
     "@types/assert": "^1.5.10",
     "@types/elliptic": "^6.4.18",
     "@types/node": "^20",
